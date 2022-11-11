@@ -1,0 +1,6 @@
+1)El master queda actualizado hasta el ultimo punto.
+2)Si, se pudo ver todos los cambios de las branches antes de hacer el merge.
+3)
+175  git checkout main
+176  git merge fernandez
+177  git push
