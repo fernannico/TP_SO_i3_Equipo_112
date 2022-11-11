@@ -1,3 +1,10 @@
+
+Nicolas ivan fernandez
+
+Danilo vukosich
+
+Ivan becerra
+
 1)El master queda actualizado hasta el ultimo punto.
 2)Si, se pudo ver todos los cambios de las branches antes de hacer el merge.
 3)
@@ -22,3 +29,15 @@ f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedi
   git add .
   git commit -m"Gamma punto 7
   git push
+
+
+Responde ALFA:
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+
+  1.  git pull
+  2.  git branch --all
+  3.  git checkout vukosich
+  4.  git status
+  5.  git add .
+  6.  git commit -m "commit punto 8 Alfa"
+  7.  git push -u origin vukosich
