@@ -40,3 +40,41 @@ Adaptador de túnel Teredo Tunneling Pseudo-Interface:
 
 
 00:22
+
+---------------------------------------------------------------------------
+
+nicolas ivan ferandez
+Configuración IP de Windows
+
+Adaptador de Ethernet Ethernet 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . : pcnat.telecentro.net.ar
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::798:1423:51f3:2687%8
+   Dirección IPv4. . . . . . . . . . . . . . : 193.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 256.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 9:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::8190:a5a3:191f:72c0%11
+   Dirección IPv4. . . . . . . . . . . . . . : 191.168.1.101
+   Máscara de subred . . . . . . . . . . . . : 256.255.255.0
+   Puerta de enlace predeterminada . . . . . : 191.168.1.1
+
+00:29
