@@ -1,0 +1,2 @@
+Caption                              DeviceID  MaxClockSpeed  Name                                    NumberOfCores  Status
+AMD64 Family 25 Model 80 Stepping 0  CPU0      3200           AMD Ryzen 5 1600AF with Radeon Graphics  8              OK
