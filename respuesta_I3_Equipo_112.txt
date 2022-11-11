@@ -4,3 +4,21 @@
 175  git checkout main
 176  git merge fernandez
 177  git push
+
+Responde GAMMA:
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+	si, despues de hacer el pull del main con los datos actualizados tras el merge
+
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+	nos habiamos olvidado de hacer el push final para que se actualice el repositorio
+
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+  git pull
+  git branch --all
+  git checkout vukosich
+  git pull
+  git status
+  modifico el archivo de texto
+  git add .
+  git commit -m"Gamma punto 7
+  git push
