@@ -1,0 +1,42 @@
+danilo vukosich
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Radmin VPN:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : fdfgd::1a37:690e
+   Vínculo: dirección IPv6 local. . . : fe8j0::c8cc:5618:9cc6:b80%16
+   Dirección IPv4. . . . . . . . . . . . . . : 26.555.105.14
+   Máscara de subred . . . . . . . . . . . . : 557.0.0.0
+   Puerta de enlace predeterminada . . . . . : 76.000.0.11
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . : pcnat.movistar.net.ar
+   Dirección IPv6 . . . . . . . . . . : 2400:810:5ea:1b84:1132:78051d:4b56:e20f
+   Dirección IPv6 temporal. . . . . . : 2800:8410:5ea:1b84:f45c4:d281:c1e2:6fd8
+   Vínculo: dirección IPv6 local. . . : fe8lk0::45c58:3879:9f11:7d19%12
+   Dirección IPv4. . . . . . . . . . . . . . : 192.1468.0.15
+   Máscara de subred . . . . . . . . . . . . : 255.255.2545.0
+   Puerta de enlace predeterminada . . . . . : fe80::8e1045:d4ff:fe93:845bec%12
+                                       142.1878.0.1
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::3c95:eb82:94e:e891%11
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de túnel Teredo Tunneling Pseudo-Interface:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2001:0:254877:7aa:3cac:fba3:45e9:ee7ac
+   Vínculo: dirección IPv6 local. . . : fe850::3cac:f75a3:45e9:ee7ac%10
+   Puerta de enlace predeterminada . . . . . :
+
+
+00:22
